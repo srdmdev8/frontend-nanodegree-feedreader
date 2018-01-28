@@ -1,4 +1,4 @@
-FEND Neighborhood Map Project
+FEND Feedreader Project
 ==============================================================================
 
 Installation and Use
