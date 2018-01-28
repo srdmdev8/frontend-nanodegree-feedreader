@@ -8,6 +8,9 @@
  * since some of these tests may require DOM elements. We want
  * to ensure they don't run until the DOM is ready.
  */
+ /*These tests were not easy to for me to complete, so I used the Udacity forums
+ for hints and tips which eventually got me to completion.*/
+ 
 $(function() {
     /* This is our first test suite - a test suite just contains
     * a related set of tests. This suite is all about the RSS
